@@ -5,6 +5,7 @@ Reference:
 - *The New Penguin Russian Course*
 - *俄语历史语法概论 - 杨隽*
 - *俄语常用词快速记忆 - 阎国栋*
-- *<https://www.russianlessons.net/>*
-- *<http://openrussian.org/>*
+- *<https://www.russianlessons.net>*
+- *<http://www.study-languages-online.com/russian-grammar.html>*
+- *<http://openrussian.org>*
 - *<https://github.com/leoarnold/russian-grammar-tables>*
